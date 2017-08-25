@@ -1,0 +1,4 @@
+export const config = {
+    apiUrl: 'https://intranet.intern.cflex.com/rest/api/'
+    
+}

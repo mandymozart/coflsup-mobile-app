@@ -1,0 +1,11 @@
+{
+    "apiUrl": "https://intranet-test.intern.cflex.com/rest/api/",
+    "debugging": true,
+    "spaces": {
+        "dashboard": "71106563",
+        "ceoCorner": "",
+        "food": "",
+        "labels": "",
+        "pharma": ""
+    }
+}
